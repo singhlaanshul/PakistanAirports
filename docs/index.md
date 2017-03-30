@@ -28,7 +28,7 @@
 		<meta name="theme-color" content="#f0bb6b">
 		<link rel="stylesheet" href="../../takeoff.css">
 		<link rel="stylesheet" href="./default.css">
-		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 	</head>
 	<body>
 		<div class="takeoff__header">
