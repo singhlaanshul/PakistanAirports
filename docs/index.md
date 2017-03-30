@@ -171,7 +171,7 @@
 		<script src="https://rawgit.com/Olical/EventEmitter/master/EventEmitter.min.js"></script>
 		<script src="https://rawgit.com/d4nyll/lethargy/master/lethargy.min.js"></script>
 		<script src="https://rawgit.com/d4nyll/smartscroll/master/smartscroll.js"></script>
-		<script src="../../takeoff.js"></script>
+		<script src="./assets/takeoff.js"></script>
 		<script>
 		$(function() {
 		    $.takeoff();
