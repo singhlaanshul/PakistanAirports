@@ -26,7 +26,7 @@
 		<meta name="msapplication-TileColor" content="#f0bb6b">
 		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 		<meta name="theme-color" content="#f0bb6b">
-		<link rel="stylesheet" href="../../takeoff.css">
+		<link rel="stylesheet" href="./assets/css/takeoff.css">
 		<link rel="stylesheet" href="./default.css">
 		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 	</head>
